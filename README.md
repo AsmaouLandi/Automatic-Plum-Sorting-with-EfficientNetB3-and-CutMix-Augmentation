@@ -1,4 +1,4 @@
-# Ubunifu (Creative) AI - JCIA Hackathon 2025
+
 
 ## 🍑 Automatic Plum Sorting with EfficientNetB3 and CutMix
 
